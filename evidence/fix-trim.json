@@ -1,0 +1,56 @@
+{
+ "claude-haiku-4-5": {
+  "turn": 18,
+  "untrimmed": 214921,
+  "window": 200000,
+  "trimmed": [
+   {
+    "keep_last": 10,
+    "tokens": 118116,
+    "error": null
+   },
+   {
+    "keep_last": 5,
+    "tokens": 77431,
+    "error": null
+   },
+   {
+    "keep_last": 3,
+    "tokens": 66379,
+    "error": null
+   },
+   {
+    "keep_last": 1,
+    "tokens": 19137,
+    "error": null
+   }
+  ]
+ },
+ "claude-opus-5-5": {
+  "turn": 61,
+  "untrimmed": 1004017,
+  "window": 1000000,
+  "trimmed": [
+   {
+    "keep_last": 10,
+    "tokens": 196018,
+    "error": null
+   },
+   {
+    "keep_last": 5,
+    "tokens": 95184,
+    "error": null
+   },
+   {
+    "keep_last": 3,
+    "tokens": 46521,
+    "error": null
+   },
+   {
+    "keep_last": 1,
+    "tokens": 18039,
+    "error": null
+   }
+  ]
+ }
+}

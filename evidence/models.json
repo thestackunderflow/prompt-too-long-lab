@@ -1,0 +1,15 @@
+{
+ "retrieved_at": "2026-10-19T11:44:43Z",
+ "sdk": "1.15.0",
+ "models": {
+  "claude-haiku-4-5": {
+   "max_input_tokens": 200000
+  },
+  "claude-haiku-5-5": {
+   "max_input_tokens": 1000000
+  },
+  "claude-opus-5-5": {
+   "max_input_tokens": 1000000
+  }
+ }
+}

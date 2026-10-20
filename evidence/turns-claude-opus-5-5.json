@@ -1,0 +1,497 @@
+{
+ "model": "claude-opus-5-5",
+ "counted_at": "2026-10-19T11:44:43Z",
+ "window": 1000000,
+ "tools_count": 6,
+ "turns": [
+  {
+   "turn": 1,
+   "file": "logging/handlers.py",
+   "total": 21913,
+   "tools": 865,
+   "system": 129,
+   "history": 20919
+  },
+  {
+   "turn": 2,
+   "file": "http/server.py",
+   "total": 38838,
+   "tools": 865,
+   "system": 129,
+   "history": 37844
+  },
+  {
+   "turn": 3,
+   "file": "asyncio/unix_events.py",
+   "total": 56651,
+   "tools": 865,
+   "system": 129,
+   "history": 55657
+  },
+  {
+   "turn": 4,
+   "file": "encodings/cp852.py",
+   "total": 78875,
+   "tools": 865,
+   "system": 129,
+   "history": 77881
+  },
+  {
+   "turn": 5,
+   "file": "mimetypes.py",
+   "total": 87664,
+   "tools": 865,
+   "system": 129,
+   "history": 86670
+  },
+  {
+   "turn": 6,
+   "file": "encodings/cp862.py",
+   "total": 109132,
+   "tools": 865,
+   "system": 129,
+   "history": 108138
+  },
+  {
+   "turn": 7,
+   "file": "concurrent/futures/process.py",
+   "total": 120977,
+   "tools": 865,
+   "system": 129,
+   "history": 119983
+  },
+  {
+   "turn": 8,
+   "file": "modulefinder.py",
+   "total": 129101,
+   "tools": 865,
+   "system": 129,
+   "history": 128107
+  },
+  {
+   "turn": 9,
+   "file": "html/parser.py",
+   "total": 136908,
+   "tools": 865,
+   "system": 129,
+   "history": 135914
+  },
+  {
+   "turn": 10,
+   "file": "lib2to3/refactor.py",
+   "total": 145923,
+   "tools": 865,
+   "system": 129,
+   "history": 144929
+  },
+  {
+   "turn": 11,
+   "file": "http/cookies.py",
+   "total": 153887,
+   "tools": 865,
+   "system": 129,
+   "history": 152893
+  },
+  {
+   "turn": 12,
+   "file": "email/header.py",
+   "total": 161873,
+   "tools": 865,
+   "system": 129,
+   "history": 160879
+  },
+  {
+   "turn": 13,
+   "file": "ssl.py",
+   "total": 181747,
+   "tools": 865,
+   "system": 129,
+   "history": 180753
+  },
+  {
+   "turn": 14,
+   "file": "compileall.py",
+   "total": 188528,
+   "tools": 865,
+   "system": 129,
+   "history": 187534
+  },
+  {
+   "turn": 15,
+   "file": "email/generator.py",
+   "total": 195911,
+   "tools": 865,
+   "system": 129,
+   "history": 194917
+  },
+  {
+   "turn": 16,
+   "file": "xml/etree/ElementTree.py",
+   "total": 220404,
+   "tools": 865,
+   "system": 129,
+   "history": 219410
+  },
+  {
+   "turn": 17,
+   "file": "_pydatetime.py",
+   "total": 254890,
+   "tools": 865,
+   "system": 129,
+   "history": 253896
+  },
+  {
+   "turn": 18,
+   "file": "shutil.py",
+   "total": 276111,
+   "tools": 865,
+   "system": 129,
+   "history": 275117
+  },
+  {
+   "turn": 19,
+   "file": "concurrent/futures/_base.py",
+   "total": 283746,
+   "tools": 865,
+   "system": 129,
+   "history": 282752
+  },
+  {
+   "turn": 20,
+   "file": "zipimport.py",
+   "total": 294074,
+   "tools": 865,
+   "system": 129,
+   "history": 293080
+  },
+  {
+   "turn": 21,
+   "file": "pickletools.py",
+   "total": 330082,
+   "tools": 865,
+   "system": 129,
+   "history": 329088
+  },
+  {
+   "turn": 22,
+   "file": "re/_parser.py",
+   "total": 343736,
+   "tools": 865,
+   "system": 129,
+   "history": 342742
+  },
+  {
+   "turn": 23,
+   "file": "_pyio.py",
+   "total": 374880,
+   "tools": 865,
+   "system": 129,
+   "history": 373886
+  },
+  {
+   "turn": 24,
+   "file": "zoneinfo/_zoneinfo.py",
+   "total": 384547,
+   "tools": 865,
+   "system": 129,
+   "history": 383553
+  },
+  {
+   "turn": 25,
+   "file": "site.py",
+   "total": 392945,
+   "tools": 865,
+   "system": 129,
+   "history": 391951
+  },
+  {
+   "turn": 26,
+   "file": "email/message.py",
+   "total": 408247,
+   "tools": 865,
+   "system": 129,
+   "history": 407253
+  },
+  {
+   "turn": 27,
+   "file": "fractions.py",
+   "total": 421997,
+   "tools": 865,
+   "system": 129,
+   "history": 421003
+  },
+  {
+   "turn": 28,
+   "file": "ast.py",
+   "total": 444735,
+   "tools": 865,
+   "system": 129,
+   "history": 443741
+  },
+  {
+   "turn": 29,
+   "file": "pathlib.py",
+   "total": 462363,
+   "tools": 865,
+   "system": 129,
+   "history": 461369
+  },
+  {
+   "turn": 30,
+   "file": "idlelib/run.py",
+   "total": 470444,
+   "tools": 865,
+   "system": 129,
+   "history": 469450
+  },
+  {
+   "turn": 31,
+   "file": "encodings/cp866.py",
+   "total": 492633,
+   "tools": 865,
+   "system": 129,
+   "history": 491639
+  },
+  {
+   "turn": 32,
+   "file": "encodings/cp860.py",
+   "total": 514978,
+   "tools": 865,
+   "system": 129,
+   "history": 513984
+  },
+  {
+   "turn": 33,
+   "file": "asyncio/selector_events.py",
+   "total": 531290,
+   "tools": 865,
+   "system": 129,
+   "history": 530296
+  },
+  {
+   "turn": 34,
+   "file": "random.py",
+   "total": 543745,
+   "tools": 865,
+   "system": 129,
+   "history": 542751
+  },
+  {
+   "turn": 35,
+   "file": "asyncio/sslproto.py",
+   "total": 555003,
+   "tools": 865,
+   "system": 129,
+   "history": 554009
+  },
+  {
+   "turn": 36,
+   "file": "idlelib/debugger.py",
+   "total": 562516,
+   "tools": 865,
+   "system": 129,
+   "history": 561522
+  },
+  {
+   "turn": 37,
+   "file": "unittest/case.py",
+   "total": 581507,
+   "tools": 865,
+   "system": 129,
+   "history": 580513
+  },
+  {
+   "turn": 38,
+   "file": "idlelib/rpc.py",
+   "total": 588881,
+   "tools": 865,
+   "system": 129,
+   "history": 587887
+  },
+  {
+   "turn": 39,
+   "file": "imaplib.py",
+   "total": 609520,
+   "tools": 865,
+   "system": 129,
+   "history": 608526
+  },
+  {
+   "turn": 40,
+   "file": "calendar.py",
+   "total": 619408,
+   "tools": 865,
+   "system": 129,
+   "history": 618414
+  },
+  {
+   "turn": 41,
+   "file": "tkinter/ttk.py",
+   "total": 638570,
+   "tools": 865,
+   "system": 129,
+   "history": 637576
+  },
+  {
+   "turn": 42,
+   "file": "ntpath.py",
+   "total": 649799,
+   "tools": 865,
+   "system": 129,
+   "history": 648805
+  },
+  {
+   "turn": 43,
+   "file": "pdb.py",
+   "total": 673409,
+   "tools": 865,
+   "system": 129,
+   "history": 672415
+  },
+  {
+   "turn": 44,
+   "file": "asyncio/events.py",
+   "total": 683263,
+   "tools": 865,
+   "system": 129,
+   "history": 682269
+  },
+  {
+   "turn": 45,
+   "file": "collections/__init__.py",
+   "total": 701340,
+   "tools": 865,
+   "system": 129,
+   "history": 700346
+  },
+  {
+   "turn": 46,
+   "file": "smtplib.py",
+   "total": 716416,
+   "tools": 865,
+   "system": 129,
+   "history": 715422
+  },
+  {
+   "turn": 47,
+   "file": "optparse.py",
+   "total": 736332,
+   "tools": 865,
+   "system": 129,
+   "history": 735338
+  },
+  {
+   "turn": 48,
+   "file": "os.py",
+   "total": 751066,
+   "tools": 865,
+   "system": 129,
+   "history": 750072
+  },
+  {
+   "turn": 49,
+   "file": "encodings/cp858.py",
+   "total": 772810,
+   "tools": 865,
+   "system": 129,
+   "history": 771816
+  },
+  {
+   "turn": 50,
+   "file": "_osx_support.py",
+   "total": 781078,
+   "tools": 865,
+   "system": 129,
+   "history": 780084
+  },
+  {
+   "turn": 51,
+   "file": "argparse.py",
+   "total": 812628,
+   "tools": 865,
+   "system": 129,
+   "history": 811634
+  },
+  {
+   "turn": 52,
+   "file": "pydoc.py",
+   "total": 852980,
+   "tools": 865,
+   "system": 129,
+   "history": 851986
+  },
+  {
+   "turn": 53,
+   "file": "socket.py",
+   "total": 866630,
+   "tools": 865,
+   "system": 129,
+   "history": 865636
+  },
+  {
+   "turn": 54,
+   "file": "_strptime.py",
+   "total": 876968,
+   "tools": 865,
+   "system": 129,
+   "history": 875974
+  },
+  {
+   "turn": 55,
+   "file": "ipaddress.py",
+   "total": 906253,
+   "tools": 865,
+   "system": 129,
+   "history": 905259
+  },
+  {
+   "turn": 56,
+   "file": "wsgiref/handlers.py",
+   "total": 913811,
+   "tools": 865,
+   "system": 129,
+   "history": 912817
+  },
+  {
+   "turn": 57,
+   "file": "functools.py",
+   "total": 926685,
+   "tools": 865,
+   "system": 129,
+   "history": 925691
+  },
+  {
+   "turn": 58,
+   "file": "doctest.py",
+   "total": 962609,
+   "tools": 865,
+   "system": 129,
+   "history": 961615
+  },
+  {
+   "turn": 59,
+   "file": "encodings/cp857.py",
+   "total": 984262,
+   "tools": 865,
+   "system": 129,
+   "history": 983268
+  },
+  {
+   "turn": 60,
+   "file": "unittest/loader.py",
+   "total": 991234,
+   "tools": 865,
+   "system": 129,
+   "history": 990240
+  },
+  {
+   "turn": 61,
+   "file": "xml/dom/expatbuilder.py",
+   "total": 1004017,
+   "tools": 865,
+   "system": 129,
+   "history": 1003023
+  }
+ ],
+ "count_tokens_error_after_last_turn": null
+}

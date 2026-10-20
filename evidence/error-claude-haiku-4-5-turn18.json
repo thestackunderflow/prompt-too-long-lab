@@ -1,0 +1,19 @@
+{
+ "label": "over",
+ "model": "claude-haiku-4-5",
+ "turn": 18,
+ "counted_tokens": 214921,
+ "window": 200000,
+ "sent_at": "2026-10-19T11:50:44Z",
+ "sdk": "1.15.0",
+ "status_code": 400,
+ "body": {
+  "type": "error",
+  "error": {
+   "type": "invalid_request_error",
+   "message": "prompt is too long: 215514 tokens > 200000 maximum"
+  },
+  "request_id": "req_011CgBYe6KFYSQtqPz4cFESf"
+ },
+ "request_id": "req_011CgBYe6KFYSQtqPz4cFESf"
+}

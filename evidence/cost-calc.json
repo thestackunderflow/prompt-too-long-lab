@@ -1,0 +1,18 @@
+{
+ "claude-haiku-4-5": {
+  "turns": 17,
+  "last_total": 198179,
+  "input_cost_no_cache_usd": 1.7573,
+  "input_cost_with_cache_usd": 0.4036,
+  "window_tokens_last_turn_either_way": 198179,
+  "note": "calculation from measured counts and published prices; output tokens excluded"
+ },
+ "claude-opus-5-5": {
+  "turns": 60,
+  "last_total": 991234,
+  "input_cost_no_cache_usd": 115.875,
+  "input_cost_with_cache_usd": 10.5517,
+  "window_tokens_last_turn_either_way": 991234,
+  "note": "calculation from measured counts and published prices; output tokens excluded"
+ }
+}

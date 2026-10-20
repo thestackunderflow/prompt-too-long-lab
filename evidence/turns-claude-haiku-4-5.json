@@ -1,0 +1,153 @@
+{
+ "model": "claude-haiku-4-5",
+ "counted_at": "2026-10-19T11:44:43Z",
+ "window": 200000,
+ "tools_count": 6,
+ "turns": [
+  {
+   "turn": 1,
+   "file": "logging/handlers.py",
+   "total": 17550,
+   "tools": 936,
+   "system": 96,
+   "history": 16518
+  },
+  {
+   "turn": 2,
+   "file": "http/server.py",
+   "total": 30760,
+   "tools": 936,
+   "system": 96,
+   "history": 29728
+  },
+  {
+   "turn": 3,
+   "file": "asyncio/unix_events.py",
+   "total": 44579,
+   "tools": 936,
+   "system": 96,
+   "history": 43547
+  },
+  {
+   "turn": 4,
+   "file": "encodings/cp852.py",
+   "total": 60191,
+   "tools": 936,
+   "system": 96,
+   "history": 59159
+  },
+  {
+   "turn": 5,
+   "file": "mimetypes.py",
+   "total": 67439,
+   "tools": 936,
+   "system": 96,
+   "history": 66407
+  },
+  {
+   "turn": 6,
+   "file": "encodings/cp862.py",
+   "total": 82492,
+   "tools": 936,
+   "system": 96,
+   "history": 81460
+  },
+  {
+   "turn": 7,
+   "file": "concurrent/futures/process.py",
+   "total": 91782,
+   "tools": 936,
+   "system": 96,
+   "history": 90750
+  },
+  {
+   "turn": 8,
+   "file": "modulefinder.py",
+   "total": 98499,
+   "tools": 936,
+   "system": 96,
+   "history": 97467
+  },
+  {
+   "turn": 9,
+   "file": "html/parser.py",
+   "total": 104870,
+   "tools": 936,
+   "system": 96,
+   "history": 103838
+  },
+  {
+   "turn": 10,
+   "file": "lib2to3/refactor.py",
+   "total": 112299,
+   "tools": 936,
+   "system": 96,
+   "history": 111267
+  },
+  {
+   "turn": 11,
+   "file": "http/cookies.py",
+   "total": 118438,
+   "tools": 936,
+   "system": 96,
+   "history": 117406
+  },
+  {
+   "turn": 12,
+   "file": "email/header.py",
+   "total": 124821,
+   "tools": 936,
+   "system": 96,
+   "history": 123789
+  },
+  {
+   "turn": 13,
+   "file": "ssl.py",
+   "total": 139571,
+   "tools": 936,
+   "system": 96,
+   "history": 138539
+  },
+  {
+   "turn": 14,
+   "file": "compileall.py",
+   "total": 144866,
+   "tools": 936,
+   "system": 96,
+   "history": 143834
+  },
+  {
+   "turn": 15,
+   "file": "email/generator.py",
+   "total": 150777,
+   "tools": 936,
+   "system": 96,
+   "history": 149745
+  },
+  {
+   "turn": 16,
+   "file": "xml/etree/ElementTree.py",
+   "total": 170187,
+   "tools": 936,
+   "system": 96,
+   "history": 169155
+  },
+  {
+   "turn": 17,
+   "file": "_pydatetime.py",
+   "total": 198179,
+   "tools": 936,
+   "system": 96,
+   "history": 197147
+  },
+  {
+   "turn": 18,
+   "file": "shutil.py",
+   "total": 214921,
+   "tools": 936,
+   "system": 96,
+   "history": 213889
+  }
+ ],
+ "count_tokens_error_after_last_turn": null
+}
